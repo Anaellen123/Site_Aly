@@ -1,0 +1,79 @@
+body{
+    background-color:#1C1C1C;
+}
+
+.titulo-principal{
+    font-size: 144px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    color: #FFFF;
+    background: url(../anaversk.html/imagens.csss/pexels-guillaume-meurice-3363556.jpg);
+    
+    
+}
+
+section{
+    background-color: black;
+}
+
+
+
+main img{
+    width: 50%;
+    box-shadow:	20px	20px	20px	30px #3399;
+}
+
+.linha1{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    
+   
+}
+
+.linha2{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    
+}
+
+.linha3{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    
+}
+
+.linha4{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    
+}
+
+.linha5{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+}
+
+
+
+
